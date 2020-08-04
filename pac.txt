@@ -46,6 +46,7 @@ var white_domains = {
 "86game":1,
 "z211":1,
 "wjx":1,
+"roccoshi":1,
 },"am":{
 "71":1,
 "126":1,
