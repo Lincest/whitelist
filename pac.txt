@@ -26,7 +26,7 @@ var white_domains = {
 },"wang":{
 "dilidili":1,
 },"bz":{
-"icoc":1
+"icoc":1    
 },"ms":{
 "sm":1,
 },"cx":{
@@ -10207,6 +10207,8 @@ var white_domains = {
 "0798":1
 },"xn--fiqs8s":{
 "":1
+},"club":{
+"ntt-co-jp":1
 }
 };
 
